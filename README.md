@@ -11,7 +11,8 @@ AngularJs
 
 ## Features
 The following options included in this rating directive.
-- [x] easy **configurable** and reasonable defaults
+- [x] Manually assign the maximum rating value using custom attribute.
+- [x] Get the selected rating value without listener function.
 
 ## Examples
 
