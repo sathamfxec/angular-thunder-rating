@@ -1,2 +1,2 @@
 # MyFirstRepo
-A star rating plugin for AngularJS using Isolated Scope.
+Angular star rating directive using Isolated Scope.
