@@ -3,11 +3,15 @@
 
 ![License](https://img.shields.io/npm/l/angular-star-rating.svg)
 
+![Angular-Thunder-Rating](https://image.ibb.co/iwefDG/1509882284848.png)
+
 ## Requirements
 
 AngularJs
 
-![Angular-Thunder-Rating](https://image.ibb.co/iwefDG/1509882284848.png)
+## Features
+The following options included in this rating directive.
+- [x] easy **configurable** and reasonable defaults
 
 ## Examples
 
