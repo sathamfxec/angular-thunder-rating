@@ -1,2 +1,2 @@
-# MyFirstRepo
-Angular star rating directive using Isolated Scope.
+# angular-rating-directive
+Angular rating directive using Isolated Scope.
