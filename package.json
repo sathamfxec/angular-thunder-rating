@@ -1,0 +1,19 @@
+{
+  "name": "angular-thunder-rating",
+  "version": "0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sathamfxec/angular-thunder-rating"
+  },
+  "author": {
+    "name": "Satham Hussain",
+    "email": "sathamfxec@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sathamfxec/angular-thunder-rating/issues"
+  }
+}
