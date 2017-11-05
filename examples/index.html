@@ -1,0 +1,19 @@
+<html>
+<head>
+<script src="../app/angular.min.js"></script>
+<script src="../app/app.js"></script>
+<script src="../app/thunder_rating.js"></script>
+</head>
+<body>
+<div class="container" data-ng-app="ThunderRating" data-ng-controller="ThunderRatingController">
+    <div>
+        <div class="alert alert-success"> <span class="label label-info"><h2>Thunder Rating:</h2></span>
+            <div thunder-rating rating="thunderRating" max-rate="10" click="click1(param)"></div>
+            <div>
+		<span class="label label-primary">Thunder Rating: {{thunderRating}}</span>
+            </div>
+        </div>       
+    </div>
+</div>
+</body>
+</html>
