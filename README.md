@@ -1,2 +1,2 @@
 # MyFirstRepo
-AngularRatingPlugin
+AngularRatingPlugin Using Isolated Scope.
