@@ -13,6 +13,7 @@ AngularJs
 The following options included in this rating directive.
 - [x] Manually assign the maximum rating value using custom attribute in the respective html element. For example **[max-rate="10"]**
 - [x] We can get the selected rating value without listener function.
+- [x] More features coming soon.
 
 ## Examples
 
